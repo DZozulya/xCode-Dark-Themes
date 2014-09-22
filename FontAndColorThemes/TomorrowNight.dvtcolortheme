@@ -7,11 +7,11 @@
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.951356 1 0.994646 1</string>
+	<string>0.340564 0.752691 0.998837 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.283746 0.908313 1 1</string>
+	<string>0.270588 0.705882 0.839216 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
@@ -19,15 +19,15 @@
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.951356 1 0.994646 1</string>
+	<string>0.340564 0.752691 0.998837 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.183105 0.183105 0.183105 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0 0 0 1</string>
+	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.891972 0.635291 1 1</string>
+	<string>0.282353 0.282353 0.270588 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTSourceTextBackground</key>
@@ -39,7 +39,7 @@
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.4574 0.379284 0.478261 1</string>
+	<string>0.282353 0.282353 0.270588 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
