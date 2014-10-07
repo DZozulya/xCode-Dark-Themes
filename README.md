@@ -1,7 +1,7 @@
 xCode-Themes-Easy-On-Eyes
 =================
 
-Popular dark xCode themes with slight modifications
+Popular xCode themes with slight modifications
 
 ###Solarized - Light V2
 My vision of Solarized Light theme for xCode 6. Swapped some colors for better code readability. Original Solarized theme based on xCode default highlighting which doesn't determine colors for Class Name, Constant, Type Name etc. This version uses same colors as original theme (only custom color is for cursor).
