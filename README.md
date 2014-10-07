@@ -1,4 +1,4 @@
-xCode-Dark-Themes
+xCode-Themes-Easy-On-Eyes
 =================
 
 Popular dark xCode themes with slight modifications
