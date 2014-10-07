@@ -3,6 +3,11 @@ xCode-Dark-Themes
 
 Popular dark xCode themes with slight modifications
 
+###Solarized - Light V2
+My vision of Solarized Light theme for xCode 6. Swapped some colors for better code readability. Original Solarized theme based on xCode default highlighting which doesn't determine colors for Class Name, Constant, Type Name etc. This version uses same colors as original theme (only custom color is for cursor).
+
+![SolarizedLightV2](https://raw.githubusercontent.com/DZozulya/xCode-Dark-Themes/master/Images/SolarizedLightV2.png)
+
 ###TomorrowDark
 Theme I use for everyday coding. It is really good for eyes, and it got colors for every type of syntax you use.
 
